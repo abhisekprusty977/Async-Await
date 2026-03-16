@@ -17,7 +17,7 @@
 - Travel Playlist - https://www.youtube.com/playlist?list=PLuP_IsbpuSAlOdkSEHe7176JtOWeyz31a
 
 
-#My Applications:
+# My Applications:
 
 - Apple Pay : https://github.com/abhisekprusty977/Apple-Pay
 
